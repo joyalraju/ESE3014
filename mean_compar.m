@@ -1,4 +1,4 @@
-a = randi(500,1,50)
+a = randi(1000,1,50)
 om=mean(a)
 for i=1:1:5
   b=randi(randi(a),1,5)
