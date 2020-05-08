@@ -12,5 +12,5 @@ while reminder > 0
     i=i+1;
 end
 d=k/e
-printf("Hence private key = (%d,%d) \n",n,d);
+printf("Hence private key is = (%d,%d) \n",n,d);
 printf("\n\n***CRACKED...!*** \n");
