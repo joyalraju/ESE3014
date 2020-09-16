@@ -1,4 +1,4 @@
-in=input("enter input message: \n");
+in=input("Enter input message: \n");
 p=input("Enter 1st prime number: \n");
 q=input("Enter 2nd prime number: \n");
 n=p*q
