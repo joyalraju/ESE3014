@@ -6,3 +6,4 @@ mesh(x,y,z);
 xlabel("time");
 ylabel("time");
 zlabel("exponential");
+End;
